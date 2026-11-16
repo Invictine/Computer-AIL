@@ -1,6 +1,6 @@
 # Invictine Hotels
 
-A school web-design project for a fictional hotel group in Shimla, with a room catalog, facilities gallery, and pricing microsite.
+This school project imagines a Shimla hotel group as a small web of connected pages: browse eight room types, tour the facilities, then jump into a separate pricing microsite with an intro video. It’s a static design exercise with a demo booking button. Borrow the page structure or adapt the concept for your own hospitality project.
 
 ## Tour the site
 
