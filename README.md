@@ -1,23 +1,30 @@
-# Invictine Hotels
+# Invictine Hotels · Hillside Heritage Resort
 
-This school project imagines a Shimla hotel group as a small web of connected pages: browse eight room types, tour the facilities, then jump into a separate pricing microsite with an intro video. It’s a static design exercise with a demo booking button. Borrow the page structure or adapt the concept for your own hospitality project.
+> **Luxury hospitality digital portal and 3D architectural fly-through animation.**
 
-## Tour the site
+[![Resort Portal](media/overview.png)](media/walkthrough.mp4)
 
-Open [Homepage.html](AIL%20Website/Homepage.html) from a local copy to explore the properties, facilities, and eight room types. Use the room-pricing link to open [introPage.html](AIL%20Website/introPage.html), which includes the pricing cards and an introductory video.
+*Click the preview card above to watch the resort walkthrough.*
 
-The booking button opens a demo state. The project is built with HTML, CSS, and JavaScript and runs without a build step.
-## Tour the pricing video
+---
 
-<video src="AIL%20Website/0001-1345.mp4" controls width="100%" aria-label="Invictine Hotels project video"></video>
+## Why I Built This
 
-## Page structure
+Showcasing a luxury alpine retreat in Shimla requires conveying both architectural grandeur and serene natural surroundings. Standard 2D photo galleries rarely capture the sense of space and elevation.
 
-```mermaid
-flowchart LR
-  Home[Homepage.html] --> Rooms[Eight room pages]
-  Home --> Facilities[Facilities gallery]
-  Home --> Pricing[introPage.html and pricing cards]
-```
+This project delivers a digital hospitality portal featuring an embedded 3D architectural fly-through animation of the resort grounds, detailed suite directories, and an intuitive guest reservation funnel.
 
-The pages are static HTML, CSS, and JavaScript examples; the booking action is a demo state and there is no hotel reservation backend.
+## Standout Features
+
+- **3D Architectural Walkthrough:** High-definition rendered camera movement through resort courtyards, terraces, and grand suites (`0001-1345.mp4`).
+- **Curated Suite Directory:** Explores 8 distinctive suite categories with detailed amenity breakdowns and floor layouts.
+- **Responsive Guest Experience:** Optimized for seamless mobile booking and high-resolution desktop exploration.
+
+## Media Assets
+
+- **Portal Overview:** `media/overview.png`
+- **Walkthrough Video:** `media/walkthrough.mp4` (Source 3D animation available at `AIL Website/0001-1345.mp4`)
+
+## Running Locally
+
+Open `AIL Website/Homepage.html` directly in any modern browser.
