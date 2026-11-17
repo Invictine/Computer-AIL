@@ -1,6 +1,6 @@
 # Invictine Hotels
 
-This school project imagines a Shimla hotel group as a small web of connected pages: browse eight room types, tour the facilities, then jump into a separate pricing microsite with an intro video. It’s a static design exercise with a demo booking button. Borrow the page structure or adapt the concept for your own hospitality project. Review the setup instructions and architecture below, or fork the repository to adapt the implementation to your requirements.
+This school project imagines a Shimla hotel group as a small web of connected pages: browse eight room types, tour the facilities, then jump into a separate pricing microsite with an intro video. It’s a static design exercise with a demo booking button. Borrow the page structure or adapt the concept for your own hospitality project.
 
 [![Invictine Hotels](media/overview.png)](media/walkthrough.mp4)
 *Click preview above to watch recorded interface demo.*
